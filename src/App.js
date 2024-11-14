@@ -15,9 +15,9 @@ import {
   Legend,
 } from "chart.js";
 import GraficosEstacion from "./GraficosEstacion";
-import pmGif from "C:/Users/frank/Desktop/PAGINASENSORES/geovisor/src/imagenes/PM.gif";
-import temperaturaGif from "C:/Users/frank/Desktop/PAGINASENSORES/geovisor/src/imagenes/TEMPERATURA.gif";
-import humedadGif from "C:/Users/frank/Desktop/PAGINASENSORES/geovisor/src/imagenes/humedad.gif";
+import pmGif from "./imagenes/PM.gif";
+import temperaturaGif from "./imagenes/TEMPERATURA.gif";
+import humedadGif from "./imagenes/humedad.gif";
 import StationSidebar from "./StationSidebar";
 
 ChartJS.register(
@@ -212,7 +212,7 @@ const App = () => {
   const fetchStations = async () => {
     setLoading(true);
     try {
-      const response = await fetch("https://backend-nmdf.onrender.com/webair");
+      const response = await fetch("https://backend-1-w4jt.onrender.com/webair");
       if (response.ok) {
         const data = await response.json();
         console.log("Stations data:", data); // Imprime los datos de estaciones en consola

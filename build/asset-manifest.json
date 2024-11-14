@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebAirQuality.github.io/static/css/main.d86dff45.css",
-    "main.js": "/WebAirQuality.github.io/static/js/main.11237ac8.js",
+    "main.js": "/WebAirQuality.github.io/static/js/main.5f2c8b9a.js",
     "static/js/453.66e644ee.chunk.js": "/WebAirQuality.github.io/static/js/453.66e644ee.chunk.js",
     "static/media/PM.gif": "/WebAirQuality.github.io/static/media/PM.a6f56847b5e75de02cbd.gif",
     "static/media/mapa.gif": "/WebAirQuality.github.io/static/media/mapa.3543aa45fd80795de5b9.gif",
@@ -14,11 +14,11 @@
     "static/media/INSALUBREGS.gif": "/WebAirQuality.github.io/static/media/INSALUBREGS.409460c77cf99ef0d97c.gif",
     "index.html": "/WebAirQuality.github.io/index.html",
     "main.d86dff45.css.map": "/WebAirQuality.github.io/static/css/main.d86dff45.css.map",
-    "main.11237ac8.js.map": "/WebAirQuality.github.io/static/js/main.11237ac8.js.map",
+    "main.5f2c8b9a.js.map": "/WebAirQuality.github.io/static/js/main.5f2c8b9a.js.map",
     "453.66e644ee.chunk.js.map": "/WebAirQuality.github.io/static/js/453.66e644ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d86dff45.css",
-    "static/js/main.11237ac8.js"
+    "static/js/main.5f2c8b9a.js"
   ]
 }
